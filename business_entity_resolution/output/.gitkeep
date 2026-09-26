@@ -1,0 +1,2 @@
+# Keep empty directory in version control.
+# Model checkpoints, candidate files, and predictions are stored here.

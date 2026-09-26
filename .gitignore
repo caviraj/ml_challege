@@ -1,0 +1,50 @@
+# Raw datasets and zip archives (>100MB strictly blocked by GitHub)
+student_resource/
+student_resource.zip
+__MACOSX/
+*.zip
+*.tar.gz
+*.tsv
+*.csv
+*.parquet
+*.h5
+data/processed/
+business_entity_resolution/data/processed/
+
+# Keep directory structure
+!business_entity_resolution/data/**/*.gitkeep
+!business_entity_resolution/output/**/*.gitkeep
+
+# Model weights and checkpoints
+*.pkl
+*.pickle
+*.joblib
+*.model
+*.bin
+*.pt
+*.onnx
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and OS metadata
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo

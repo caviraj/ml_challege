@@ -1,0 +1,2 @@
+# Keep empty directory in version control.
+# Real training data (train_source1.tsv, etc.) should be placed here or symlinked.

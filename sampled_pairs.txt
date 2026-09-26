@@ -1,0 +1,120 @@
+Pair 1:
+  S1 (S1-777210964) [Country: US]:
+    Name:    Davis Family Office
+    Address: 88 Olive Circle, Lebanon, TN
+  Match (S2-12029274) [Country: US]:
+    Name:    Davis Family Offie
+    Address: 88 OLIVE CIR, LEBANON, TN
+------------------------------------------------------------
+Pair 2:
+  S1 (S1-190133982) [Country: India]:
+    Name:    MS Consultancy Corp
+    Address: Shymala Appts 1St Floor Flat No. 4 Opp Ratna Hospital Sb Road In Haveli, Pune, Maharashtra
+  Match (S2-523219173) [Country: India]:
+    Name:    MS [Consultancy]
+    Address: SHYMALA APPTS 1-1ST FLOOR FLAT NO. 4 OPP RATNA HOSPITAL SB ROAD IN HAVELI, PUNE, Maharashtra
+------------------------------------------------------------
+Pair 3:
+  S1 (S1-970131671) [Country: US]:
+    Name:    3520 Main Road Realty Inc
+    Address: TX, 158 Simpson Lane, Somerset
+  Match (S3-392756625) [Country: US]:
+    Name:    3520 MAIN ROAD Realty INC
+    Address: 158 Simpson Lane, Somerset, Texas
+------------------------------------------------------------
+Pair 4:
+  S1 (S1-391999301) [Country: India]:
+    Name:    Team Air Pvt. Ltd.
+    Address: Flat No:101, Anuska Towers, Opp. Mercedes Benz Show Room, Lakdi- Ka, -Pool, Hyderabad, Telangana
+  Match (S2-339356009) [Country: India]:
+    Name:    Thg Air Pvt. Ltd.
+    Address: FLAT NO:101, -POOL, HYDERABAD, తెలంగాణ
+------------------------------------------------------------
+Pair 5:
+  S1 (S1-435988542) [Country: US]:
+    Name:    Drayex Berto LLC
+    Address: Montgomery Village, MD, 19821 Wheelwright Drive
+  Match (S2-500704398) [Country: US]:
+    Name:    DRAYEX  BERTO LLC
+    Address: ##19821 WHEELWRIGHT DR, MONTGOMERY VILLAGE, MD
+------------------------------------------------------------
+Pair 6:
+  S1 (S1-351020560) [Country: US]:
+    Name:    Grand Connecticut LLC
+    Address: Calumet City, 351 Hoxie Avenue, IL
+  Match (S3-943702663) [Country: US]:
+    Name:    Grand LLC Service
+    Address: Illinois, Calumet City, 351- Hoxie Avenue
+------------------------------------------------------------
+Pair 7:
+  S1 (S1-353020204) [Country: US]:
+    Name:    Prairie Capital Partners PLLC
+    Address: 120 Autumn Woods Boulevard, Mount Holly, NC
+  Match (S2-403125820) [Country: US]:
+    Name:    PRAIRIE CAPITAL PLLC-PARTNERS
+    Address: 120. Autumn Woods Boulevard, MOUNT HOLLY, NC
+------------------------------------------------------------
+Pair 8:
+  S1 (S1-374388852) [Country: India]:
+    Name:    Jalna Chem LLP
+    Address: At H. No 211, Bhamberi Tq. Ambad S/Dn Dist Jalna, Jalna, Maharashtra
+  Match (S2-509116615) [Country: India]:
+    Name:    Jalna Chem  LLP
+    Address: AT H. NO 211, BHAMBERI TQ. AMBAD S/DN DIST JALNA, JALNA, Maharashtra
+------------------------------------------------------------
+Pair 9:
+  S1 (S1-793615008) [Country: India]:
+    Name:    Clairvoyant Record Private Limited
+    Address: 1St Floor, Tamrakarmall, New Bus Stand, Sehore, Madhya Pradesh
+  Match (S3-154593156) [Country: India]:
+    Name:    Clairvoyant Rceoad Private (Limited)
+    Address: 1St Floor, Sehore, Madhya Pradesh, MP
+------------------------------------------------------------
+Pair 10:
+  S1 (S1-339384180) [Country: India]:
+    Name:    FH Business Pvt Ltd
+    Address: 602, 6Th Floor, Crystal Mall, Bani Park, Jaipur, Rajasthan
+  Match (S3-162797226) [Country: India]:
+    Name:    FH Business Pvt-Ltd.
+    Address: 602, Jaipur, RJ
+------------------------------------------------------------
+Pair 11:
+  S1 (S1-83174673) [Country: India]:
+    Name:    Supreme It Private Limited
+    Address: Office No S 07 82Haware, Centurion Plt88-91 Sec19A, Thane, Maharashtra
+  Match (S2-348030512) [Country: India]:
+    Name:    Supreme  It Private Limited
+    Address: OFFICE NO S 07 82HAWARE, CENTURION PLT88-91 SEC19A, THANE, Maharashtra
+------------------------------------------------------------
+Pair 12:
+  S1 (S1-350092923) [Country: US]:
+    Name:    Cardiology Metro Care Associates Inc
+    Address: 1138 Trimble Creek Drive, West Jordan City, UT
+  Match (S2-358229894) [Country: US]:
+    Name:    cardiologymetrocare.com
+    Address: 1138 TRIMBLE CREEK DRIVE, WEST JORDAN, UT
+------------------------------------------------------------
+Pair 13:
+  S1 (S1-665522603) [Country: India]:
+    Name:    Achyut Colonisers Pvt Ltd
+    Address: House No 4/82 Madanlal Bohara Kapad Market Ichalkaranji, Ichalkaranji, Kolhapur, Maharashtra
+  Match (S3-813562861) [Country: India]:
+    Name:    Shri Verafayemira
+    Address: House No 4/82 Madanlal Bohara Kapad Market Ichalkaranji, Kolhapur, महाराष्ट्र
+------------------------------------------------------------
+Pair 14:
+  S1 (S1-200723243) [Country: India]:
+    Name:    Unique & Sons Private Limited
+    Address: Plot No.118, 119 Syno:190, Ip Chandanvelly, Rangareddy, K.V.Rangareddy, Telangana
+  Match (S2-788224506) [Country: India]:
+    Name:    UNIQUE & SONS LIMITED SERVICE
+    Address: #118 , 119 SYNO:190, IP CHANDANVELLY, RANGAREDDY, తెలంగాణ
+------------------------------------------------------------
+Pair 15:
+  S1 (S1-46329934) [Country: India]:
+    Name:    Sarasva India Limited
+    Address: 9/1/3 Kasundia 2Nd Bye Lane Lp-224/24/1, Santragachi, Howrah, West Bengal
+  Match (S2-604099225) [Country: India]:
+    Name:    Sarasva Índia
+    Address: DOOR NO 9/1/3. KASUNDIA 2ND BYE LANE LP-224/24/1, SANTRAGACHI, HOWRAH, পশ্চিমবঙ্গ
+------------------------------------------------------------
