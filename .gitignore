@@ -1,15 +1,22 @@
-# Raw datasets and zip archives (>100MB strictly blocked by GitHub)
-student_resource/
-student_resource.zip
-__MACOSX/
+# Zip archives
 *.zip
 *.tar.gz
-*.tsv
-*.csv
-*.parquet
-*.h5
-data/processed/
-business_entity_resolution/data/processed/
+project_aws.zip
+student_resource.zip
+__MACOSX/
+
+# Raw large dataset folders (> 100 MB each, blocked by GitHub)
+student_resource/dataset/
+
+# Full processed datasets (> 100 MB each, blocked by GitHub)
+business_entity_resolution/data/processed/*.parquet
+business_entity_resolution/data/processed/*.tsv
+business_entity_resolution/data/processed/*.csv
+business_entity_resolution/data/processed/*.h5
+
+# Allow working sample parquet datasets (< 15 MB each)
+!business_entity_resolution/data/processed/sample/
+!business_entity_resolution/data/processed/sample/**
 
 # Keep directory structure
 !business_entity_resolution/data/**/*.gitkeep
